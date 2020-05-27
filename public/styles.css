@@ -9,11 +9,10 @@ h1 {
 }
 
 #button {
-  color: #292929;
   border: none;
   border-radius: 10px;
   margin-top: 7px;
-  padding: 4px;
+  padding: 8px;
 }
 
 .input {
@@ -26,4 +25,8 @@ h1 {
 
 p {
   color: #626262;
+}
+
+html {
+  padding: 10px;
 }
