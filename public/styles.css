@@ -1,0 +1,29 @@
+body {
+  font-family: Arial;
+  color: #828282;
+}
+
+h1 {
+  font-family: serif;
+  color: #292929;
+}
+
+#button {
+  color: #292929;
+  border: none;
+  border-radius: 10px;
+  margin-top: 7px;
+  padding: 4px;
+}
+
+.input {
+  background-color: #87bbcd;
+  border: none;
+  border-radius: 10px;
+  padding: 3px;
+  margin: 3px;
+}
+
+p {
+  color: #626262;
+}
